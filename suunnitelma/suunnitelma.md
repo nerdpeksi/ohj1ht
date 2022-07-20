@@ -1,51 +1,48 @@
 # Harjoitustyön suunnitelma
 
-(Täydennä oman pelisi tiedot tähän tiedostoon muokkaamalla 
-tiedostoa tekstieditorissa. Käytä [Markdown-syntaksia](https://about.gitlab.com/handbook/markdown-guide/).
-Poista sitten *kaikki* suluilla merkityt kohdat.)
+## Tietoja
 
-## Tietoja 
+Tekijä: Pekko Hjelt
 
-Tekijä: (Etunimi Sukunimi)
+Työ git-varaston osoite: <https://github.com/nerdpeksi/ohj1ht>
 
-Työ git-varaston osoite: <https://gitlab.jyu.fi/anlakane/ohj1ht> (*Korvaa* tämä osoite oman git-varastosi osoitteella)
+Pelin nimi: Sienipeli
 
-Pelin nimi: (Nimi)
+Pelialusta: Windows
 
-Pelialusta: Windows/macOS/Linux (Valitse alusta)
-
-Pelaajien lukumäärä: 1/2/3/4 (Valitse pelaajien lukumäärä)
+Pelaajien lukumäärä: 1
 
 ## Pelin tarina
 
-(Pelin tarina.)
+Sieni lähtee keräämään tähtösiä.
 
 ## Pelin idea ja tavoitteet
 
-(Pelin idea ja tavoitteet.)
+Pelin tavoitteena on kerätä mahdollisimman monta tähtöstä pelikentältä. Omenoihin osumista kannattaa välttää, sillä ne syövät tähdistä saatuja pisteitä. Omenan päälle hyppäämällä sen saa hajoitettua, myös tästä tienaa pisteitä.
 
 ## Hahmotelma pelistä
 
-(Kun olet lisännyt suunnitelmakuvan tähän hakemistoon, linkitä se tähän alle. Alla on esimerkkikuvan linkitys.)
 
-![Esimerkkikuva](esimerkkikuva.png "Esimerkkikuva")
+![Esimerkkikuva](pelin_suunnitelma.png "Esimerkkikuva")
+
+kuvan kenttä on lyhennetty mallikuva
 
 ## Toteutuksen suunnitelma
 
-Helmikuu
+Heinäkuu
 
-- (Tavoite 1)
-- (Tavoite 2)
-- (Tavoite 3)
+- Hahmojen luonti
+- Controllien totetutus
+- Fysiikan hionta
 
-Maaliskuu
+Elokuu
 
-- (Tavoite 1)
-- (Tavoite 2)
-- (Tavoite 3)
+- Pelikentän luonti
+- Pistelaskurin luonti
+- Testausta ja hiontaa
 
 Jos aikaa jää
 
-- (Tavoite 1)
-- (Tavoite 2)
-- (Tavoite 3)
+- animaatioita
+- lisää animaatioita
+- pidempi kenttä
